@@ -14,9 +14,11 @@ SD2 (USART2).
 
 ** Build Procedure **
 
-The demo has been tested by using the free Codesourcery GCC-based toolchain
-and YAGARTO.
-Just modify the TRGT line in the makefile in order to use different GCC ports.
+Was tested on gcc arm embedded toolchain for linux
+( gcc-arm-none-eabi-4_8-2014q1 )
+ChibiOS 2.6.4
+uGfx release_21_140619
+
 
 ** Notes **
 
