@@ -4,7 +4,7 @@
 
 ** TARGET **
 
-The demo runs on an Olimex STM32-P103 board.
+The demo runs on an HY-mini STM32V (model HY32D) board
 
 ** The Demo **
 
