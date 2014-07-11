@@ -8,9 +8,8 @@ The demo runs on an HY-mini STM32V (model HY32D) board
 
 ** The Demo **
 
-The demo flashes the board LED using a thread, by pressing the button located
-on the board the test procedure is activated with output on the serial port
-SD2 (USART2).
+The demo itself is just the Button demo from uGfx library
+Most interesting part is the board description
 
 ** Build Procedure **
 
